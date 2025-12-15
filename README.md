@@ -1,8 +1,8 @@
-# 👋 WELCOME TO MY PROFILE
+#        👋 WELCOME TO MY PROFILE
 
-## **Sachin L. Kumar**
+        ## **Sachin L. Kumar**
 
-*IT Student*
+              *IT Student*
 
 ---
 
