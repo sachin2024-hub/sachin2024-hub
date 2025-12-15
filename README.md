@@ -1,8 +1,9 @@
-#        👋 WELCOME TO MY PROFILE
+<h1 align="center">👋 WELCOME TO MY PROFILE</h1>
 
-        ## **Sachin L. Kumar**
+<h2 align="center"><strong>Sachin L. Kumar</strong></h2>
 
-              *IT Student*
+<p align="center"><em>IT Student</em></p>
+
 
 ---
 
