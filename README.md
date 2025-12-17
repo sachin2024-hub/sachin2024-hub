@@ -84,6 +84,10 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 ### Tool Management App Screenshots (Assuming based on image names)
 
+| | |
+
+| --- | --- |
+
 <img src="apps_screenshot/adjustable.jpg" width="300" alt="Adjustable Tool">
 
 A screenshot of an adjustable tool, possibly part of an inventory or catalog app.
@@ -92,57 +96,19 @@ A screenshot of an adjustable tool, possibly part of an inventory or catalog app
 
 This shows a bar graph function, likely displaying data in a visual format.
 
-<img src="apps_screenshot/Camera.jpg" width="300" alt="Camera">
+| <img src="apps_screenshot/Camera.jpg" width="200" alt="Camera"><br>The camera interface, perhaps for capturing images in the app. | <img src="apps_screenshot/first_class.jpg" width="200" alt="First Class"><br>First class or category page. |
 
-The camera interface, perhaps for capturing images in the app.
+| <img src="apps_screenshot/first_page.jpg" width="200" alt="First Page"><br>The initial page of the app. | <img src="apps_screenshot/flat screw.jpg" width="200" alt="Flat Screw"><br>Image of a flat screw tool. |
 
-<img src="apps_screenshot/first_class.jpg" width="300" alt="First Class">
+| <img src="apps_screenshot/hammer.jpg" width="200" alt="Hammer"><br>Hammer tool screenshot. | <img src="apps_screenshot/needle nose.jpg" width="200" alt="Needle Nose"><br>Needle nose pliers. |
 
-First class or category page.
+| <img src="apps_screenshot/nut driver.jpg" width="200" alt="Nut Driver"><br>Nut driver tool. | <img src="apps_screenshot/open and wrench.jpg" width="200" alt="Open and Wrench"><br>Open-end wrench. |
 
-<img src="apps_screenshot/first_page.jpg" width="300" alt="First Page">
+| <img src="apps_screenshot/screw driver.jpg" width="200" alt="Screw Driver"><br>Screwdriver. | <img src="apps_screenshot/second_page.jpg" width="200" alt="Second Page"><br>Second page of the app. |
 
-The initial page of the app.
+| <img src="apps_screenshot/Side bar.jpg" width="200" alt="Side Bar"><br>The side navigation bar. | <img src="apps_screenshot/third_page.jpg" width="200" alt="Third Page"><br>Third page. |
 
-<img src="apps_screenshot/flat screw.jpg" width="300" alt="Flat Screw">
-
-Image of a flat screw tool.
-
-<img src="apps_screenshot/hammer.jpg" width="300" alt="Hammer">
-
-Hammer tool screenshot.
-
-<img src="apps_screenshot/needle nose.jpg" width="300" alt="Needle Nose">
-
-Needle nose pliers.
-
-<img src="apps_screenshot/nut driver.jpg" width="300" alt="Nut Driver">
-
-Nut driver tool.
-
-<img src="apps_screenshot/open and wrench.jpg" width="300" alt="Open and Wrench">
-
-Open-end wrench.
-
-<img src="apps_screenshot/screw driver.jpg" width="300" alt="Screw Driver">
-
-Screwdriver.
-
-<img src="apps_screenshot/second_page.jpg" width="300" alt="Second Page">
-
-Second page of the app.
-
-<img src="apps_screenshot/Side bar.jpg" width="300" alt="Side Bar">
-
-The side navigation bar.
-
-<img src="apps_screenshot/third_page.jpg" width="300" alt="Third Page">
-
-Third page.
-
-<img src="apps_screenshot/Torque.jpg" width="300" alt="Torque">
-
-Torque tool or setting.
+| <img src="apps_screenshot/Torque.jpg" width="200" alt="Torque"><br>Torque tool or setting. |  |
 
 ---
 
