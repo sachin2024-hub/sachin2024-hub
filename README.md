@@ -74,81 +74,81 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 ### Smart Attendance System Screenshots
 
-![Scan Interface](apps_screenshot/Scan.jpg)
+<img src="apps_screenshot/Scan.jpg" width="300" alt="Scan Interface">
 
 This screenshot displays the primary scan interface of the Smart Attendance System, where users scan their RFID cards to record attendance.
 
-![Scan History with Delete](apps_screenshot/Scan history with delete.jpg)
+<img src="apps_screenshot/Scan history with delete.jpg" width="300" alt="Scan History with Delete">
 
 Here, you can see the scan history page, allowing users to view past scans and delete entries if necessary.
 
-![Scan White Graph](apps_screenshot/Scan white graph.jpg)
+<img src="apps_screenshot/Scan white graph.jpg" width="300" alt="Scan White Graph">
 
 This image shows a graphical view of scan data, perhaps a white-themed graph for better visibility.
 
-![Statistics](apps_screenshot/Statistcis.jpg)
+<img src="apps_screenshot/Statistcis.jpg" width="300" alt="Statistics">
 
 The statistics page provides insights into attendance patterns with charts and metrics.
 
 ### Tool Management App Screenshots (Assuming based on image names)
 
-![Adjustable Tool](apps_screenshot/adjustable.jpg)
+<img src="apps_screenshot/adjustable.jpg" width="300" alt="Adjustable Tool">
 
 A screenshot of an adjustable tool, possibly part of an inventory or catalog app.
 
-![Bar Graph Function](apps_screenshot/Bar graph function.jpg)
+<img src="apps_screenshot/Bar graph function.jpg" width="300" alt="Bar Graph Function">
 
 This shows a bar graph function, likely displaying data in a visual format.
 
-![Camera](apps_screenshot/Camera.jpg)
+<img src="apps_screenshot/Camera.jpg" width="300" alt="Camera">
 
 The camera interface, perhaps for capturing images in the app.
 
-![First Class](apps_screenshot/first_class.jpg)
+<img src="apps_screenshot/first_class.jpg" width="300" alt="First Class">
 
 First class or category page.
 
-![First Page](apps_screenshot/first_page.jpg)
+<img src="apps_screenshot/first_page.jpg" width="300" alt="First Page">
 
 The initial page of the app.
 
-![Flat Screw](apps_screenshot/flat screw.jpg)
+<img src="apps_screenshot/flat screw.jpg" width="300" alt="Flat Screw">
 
 Image of a flat screw tool.
 
-![Hammer](apps_screenshot/hammer.jpg)
+<img src="apps_screenshot/hammer.jpg" width="300" alt="Hammer">
 
 Hammer tool screenshot.
 
-![Needle Nose](apps_screenshot/needle nose.jpg)
+<img src="apps_screenshot/needle nose.jpg" width="300" alt="Needle Nose">
 
 Needle nose pliers.
 
-![Nut Driver](apps_screenshot/nut driver.jpg)
+<img src="apps_screenshot/nut driver.jpg" width="300" alt="Nut Driver">
 
 Nut driver tool.
 
-![Open and Wrench](apps_screenshot/open and wrench.jpg)
+<img src="apps_screenshot/open and wrench.jpg" width="300" alt="Open and Wrench">
 
 Open-end wrench.
 
-![Screw Driver](apps_screenshot/screw driver.jpg)
+<img src="apps_screenshot/screw driver.jpg" width="300" alt="Screw Driver">
 
 Screwdriver.
 
-![Second Page](apps_screenshot/second_page.jpg)
+<img src="apps_screenshot/second_page.jpg" width="300" alt="Second Page">
 
 Second page of the app.
 
-![Side Bar](apps_screenshot/Side bar.jpg)
+<img src="apps_screenshot/Side bar.jpg" width="300" alt="Side Bar">
 
 The side navigation bar.
 
-![Third Page](apps_screenshot/third_page.jpg)
+<img src="apps_screenshot/third_page.jpg" width="300" alt="Third Page">
 
 Third page.
 
-![Torque](apps_screenshot/Torque.jpg)
+<img src="apps_screenshot/Torque.jpg" width="300" alt="Torque">
 
 Torque tool or setting.
 
