@@ -70,7 +70,91 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 ---
 
-## 🔗 Connect With Me
+## � App Screenshots
+
+### Smart Attendance System Screenshots
+
+![Scan Interface](apps_screenshot/Scan.jpg)
+
+This screenshot displays the primary scan interface of the Smart Attendance System, where users scan their RFID cards to record attendance.
+
+![Scan History with Delete](apps_screenshot/Scan history with delete.jpg)
+
+Here, you can see the scan history page, allowing users to view past scans and delete entries if necessary.
+
+![Scan White Graph](apps_screenshot/Scan white graph.jpg)
+
+This image shows a graphical view of scan data, perhaps a white-themed graph for better visibility.
+
+![Statistics](apps_screenshot/Statistcis.jpg)
+
+The statistics page provides insights into attendance patterns with charts and metrics.
+
+### Tool Management App Screenshots (Assuming based on image names)
+
+![Adjustable Tool](apps_screenshot/adjustable.jpg)
+
+A screenshot of an adjustable tool, possibly part of an inventory or catalog app.
+
+![Bar Graph Function](apps_screenshot/Bar graph function.jpg)
+
+This shows a bar graph function, likely displaying data in a visual format.
+
+![Camera](apps_screenshot/Camera.jpg)
+
+The camera interface, perhaps for capturing images in the app.
+
+![First Class](apps_screenshot/first_class.jpg)
+
+First class or category page.
+
+![First Page](apps_screenshot/first_page.jpg)
+
+The initial page of the app.
+
+![Flat Screw](apps_screenshot/flat screw.jpg)
+
+Image of a flat screw tool.
+
+![Hammer](apps_screenshot/hammer.jpg)
+
+Hammer tool screenshot.
+
+![Needle Nose](apps_screenshot/needle nose.jpg)
+
+Needle nose pliers.
+
+![Nut Driver](apps_screenshot/nut driver.jpg)
+
+Nut driver tool.
+
+![Open and Wrench](apps_screenshot/open and wrench.jpg)
+
+Open-end wrench.
+
+![Screw Driver](apps_screenshot/screw driver.jpg)
+
+Screwdriver.
+
+![Second Page](apps_screenshot/second_page.jpg)
+
+Second page of the app.
+
+![Side Bar](apps_screenshot/Side bar.jpg)
+
+The side navigation bar.
+
+![Third Page](apps_screenshot/third_page.jpg)
+
+Third page.
+
+![Torque](apps_screenshot/Torque.jpg)
+
+Torque tool or setting.
+
+---
+
+## �🔗 Connect With Me
 
 * 📧 Email: xxsachinxx123@gmail.com
 * 🌐 Facebook: your-facebook-link
