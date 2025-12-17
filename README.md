@@ -69,16 +69,16 @@ RFID-based attendance system with scan history and statistics.
 #### Screenshots
 
 - **Scan Interface**: Main scan screen for RFID attendance.  
-  ![Scan Interface](apps_screenshot/Scan.jpg)
+  <img src="apps_screenshot/Scan.jpg" width="150" alt="Scan Interface">
 
 - **Scan History with Delete**: History page with delete option.  
-  ![Scan History with Delete](apps_screenshot/Scan history with delete.jpg)
+  <img src="apps_screenshot/Scan history with delete.jpg" width="150" alt="Scan History with Delete">
 
 - **Scan White Graph**: Graphical data view.  
-  ![Scan White Graph](apps_screenshot/Scan white graph.jpg)
+  <img src="apps_screenshot/Scan white graph.jpg" width="150" alt="Scan White Graph">
 
 - **Statistics**: Attendance metrics dashboard.  
-  ![Statistics](apps_screenshot/Statistcis.jpg)
+  <img src="apps_screenshot/Statistcis.jpg" width="150" alt="Statistics">
 
 ### 💼 Job Application System
 
@@ -87,16 +87,16 @@ A system for job seekers and employers with application tracking and resume mana
 #### Screenshots
 
 - **First Page**: Main page of the job application system.  
-  ![First Page](apps_screenshot/first_page.jpg)
+  <img src="apps_screenshot/first_page.jpg" width="150" alt="First Page">
 
 - **Second Page**: Application tracking page.  
-  ![Second Page](apps_screenshot/second_page.jpg)
+  <img src="apps_screenshot/second_page.jpg" width="150" alt="Second Page">
 
 - **Third Page**: Resume management interface.  
-  ![Third Page](apps_screenshot/third_page.jpg)
+  <img src="apps_screenshot/third_page.jpg" width="150" alt="Third Page">
 
 - **Side Bar**: Navigation sidebar.  
-  ![Side Bar](apps_screenshot/Side bar.jpg)
+  <img src="apps_screenshot/Side bar.jpg" width="150" alt="Side Bar">
 
 ### 💎 Jewelry Shop System
 
@@ -105,37 +105,37 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 #### Screenshots
 
 - **Adjustable Tool**: Product display.  
-  ![Adjustable Tool](apps_screenshot/adjustable.jpg)
+  <img src="apps_screenshot/adjustable.jpg" width="150" alt="Adjustable Tool">
 
 - **Bar Graph Function**: Analytics dashboard.  
-  ![Bar Graph Function](apps_screenshot/Bar graph function.jpg)
+  <img src="apps_screenshot/Bar graph function.jpg" width="150" alt="Bar Graph Function">
 
 - **Camera**: Product image capture.  
-  ![Camera](apps_screenshot/Camera.jpg)
+  <img src="apps_screenshot/Camera.jpg" width="150" alt="Camera">
 
 - **First Class**: Premium category page.  
-  ![First Class](apps_screenshot/first_class.jpg)
+  <img src="apps_screenshot/first_class.jpg" width="150" alt="First Class">
 
 - **Flat Screw**: Product display.  
-  ![Flat Screw](apps_screenshot/flat screw.jpg)
+  <img src="apps_screenshot/flat screw.jpg" width="150" alt="Flat Screw">
 
 - **Hammer**: Product display.  
-  ![Hammer](apps_screenshot/hammer.jpg)
+  <img src="apps_screenshot/hammer.jpg" width="150" alt="Hammer">
 
 - **Needle Nose**: Product display.  
-  ![Needle Nose](apps_screenshot/needle nose.jpg)
+  <img src="apps_screenshot/needle nose.jpg" width="150" alt="Needle Nose">
 
 - **Nut Driver**: Product display.  
-  ![Nut Driver](apps_screenshot/nut driver.jpg)
+  <img src="apps_screenshot/nut driver.jpg" width="150" alt="Nut Driver">
 
 - **Open and Wrench**: Product display.  
-  ![Open and Wrench](apps_screenshot/open and wrench.jpg)
+  <img src="apps_screenshot/open and wrench.jpg" width="150" alt="Open and Wrench">
 
 - **Screw Driver**: Product display.  
-  ![Screw Driver](apps_screenshot/screw driver.jpg)
+  <img src="apps_screenshot/screw driver.jpg" width="150" alt="Screw Driver">
 
 - **Torque**: Product display.  
-  ![Torque](apps_screenshot/Torque.jpg)
+  <img src="apps_screenshot/Torque.jpg" width="150" alt="Torque">
 
 ---
 ## 📸 App Screenshots
