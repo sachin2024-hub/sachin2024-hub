@@ -68,13 +68,17 @@ RFID-based attendance system with scan history and statistics.
 
 #### Screenshots
 
-| | |
+- **Scan Interface**: Main scan screen for RFID attendance.  
+  ![Scan Interface](apps_screenshot/Scan.jpg)
 
-| --- | --- |
+- **Scan History with Delete**: History page with delete option.  
+  ![Scan History with Delete](apps_screenshot/Scan history with delete.jpg)
 
-| <img src="apps_screenshot/Scan.jpg" width="200" alt="Scan Interface"><br>Main scan screen for RFID attendance. | <img src="apps_screenshot/Scan history with delete.jpg" width="200" alt="Scan History with Delete"><br>History page with delete option. |
+- **Scan White Graph**: Graphical data view.  
+  ![Scan White Graph](apps_screenshot/Scan white graph.jpg)
 
-| <img src="apps_screenshot/Scan white graph.jpg" width="200" alt="Scan White Graph"><br>Graphical data view. | <img src="apps_screenshot/Statistcis.jpg" width="200" alt="Statistics"><br>Attendance metrics dashboard. |
+- **Statistics**: Attendance metrics dashboard.  
+  ![Statistics](apps_screenshot/Statistcis.jpg)
 
 ### 💼 Job Application System
 
@@ -82,17 +86,56 @@ A system for job seekers and employers with application tracking and resume mana
 
 #### Screenshots
 
-| | |
+- **First Page**: Main page of the job application system.  
+  ![First Page](apps_screenshot/first_page.jpg)
 
-| --- | --- |
+- **Second Page**: Application tracking page.  
+  ![Second Page](apps_screenshot/second_page.jpg)
 
-| <img src="apps_screenshot/first_page.jpg" width="200" alt="First Page"><br>Main page of the job application system. | <img src="apps_screenshot/second_page.jpg" width="200" alt="Second Page"><br>Application tracking page. |
+- **Third Page**: Resume management interface.  
+  ![Third Page](apps_screenshot/third_page.jpg)
 
-| <img src="apps_screenshot/third_page.jpg" width="200" alt="Third Page"><br>Resume management interface. | <img src="apps_screenshot/Side bar.jpg" width="200" alt="Side Bar"><br>Navigation sidebar. |
+- **Side Bar**: Navigation sidebar.  
+  ![Side Bar](apps_screenshot/Side bar.jpg)
 
 ### 💎 Jewelry Shop System
 
 An e-commerce-style system with login, product display, admin panel, and purchase features.
+
+#### Screenshots
+
+- **Adjustable Tool**: Product display.  
+  ![Adjustable Tool](apps_screenshot/adjustable.jpg)
+
+- **Bar Graph Function**: Analytics dashboard.  
+  ![Bar Graph Function](apps_screenshot/Bar graph function.jpg)
+
+- **Camera**: Product image capture.  
+  ![Camera](apps_screenshot/Camera.jpg)
+
+- **First Class**: Premium category page.  
+  ![First Class](apps_screenshot/first_class.jpg)
+
+- **Flat Screw**: Product display.  
+  ![Flat Screw](apps_screenshot/flat screw.jpg)
+
+- **Hammer**: Product display.  
+  ![Hammer](apps_screenshot/hammer.jpg)
+
+- **Needle Nose**: Product display.  
+  ![Needle Nose](apps_screenshot/needle nose.jpg)
+
+- **Nut Driver**: Product display.  
+  ![Nut Driver](apps_screenshot/nut driver.jpg)
+
+- **Open and Wrench**: Product display.  
+  ![Open and Wrench](apps_screenshot/open and wrench.jpg)
+
+- **Screw Driver**: Product display.  
+  ![Screw Driver](apps_screenshot/screw driver.jpg)
+
+- **Torque**: Product display.  
+  ![Torque](apps_screenshot/Torque.jpg)
 
 ---
 ## 📸 App Screenshots
