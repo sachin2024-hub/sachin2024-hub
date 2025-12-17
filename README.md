@@ -74,21 +74,13 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 ### Smart Attendance System Screenshots
 
-<img src="apps_screenshot/Scan.jpg" width="300" alt="Scan Interface">
+| | |
 
-This screenshot displays the primary scan interface of the Smart Attendance System, where users scan their RFID cards to record attendance.
+| --- | --- |
 
-<img src="apps_screenshot/Scan history with delete.jpg" width="300" alt="Scan History with Delete">
+| <img src="apps_screenshot/Scan.jpg" width="200" alt="Scan Interface"><br>This screenshot displays the primary scan interface of the Smart Attendance System, where users scan their RFID cards to record attendance. | <img src="apps_screenshot/Scan history with delete.jpg" width="200" alt="Scan History with Delete"><br>Here, you can see the scan history page, allowing users to view past scans and delete entries if necessary. |
 
-Here, you can see the scan history page, allowing users to view past scans and delete entries if necessary.
-
-<img src="apps_screenshot/Scan white graph.jpg" width="300" alt="Scan White Graph">
-
-This image shows a graphical view of scan data, perhaps a white-themed graph for better visibility.
-
-<img src="apps_screenshot/Statistcis.jpg" width="300" alt="Statistics">
-
-The statistics page provides insights into attendance patterns with charts and metrics.
+| <img src="apps_screenshot/Scan white graph.jpg" width="200" alt="Scan White Graph"><br>This image shows a graphical view of scan data, perhaps a white-themed graph for better visibility. | <img src="apps_screenshot/Statistcis.jpg" width="200" alt="Statistics"><br>The statistics page provides insights into attendance patterns with charts and metrics. |
 
 ### Tool Management App Screenshots (Assuming based on image names)
 
