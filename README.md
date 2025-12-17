@@ -7,7 +7,18 @@
 
 ---
 
-## 🚀 About Me
+## � Table of Contents
+
+- [About Me](#-about-me)
+- [Current Focus](#-current-focus)
+- [Core Skills & Technologies](#-core-skills--technologies)
+- [Learning & Development](#-learning--development)
+- [Featured Projects](#-featured-projects)
+- [App Screenshots](#-app-screenshots)
+- [Connect With Me](#-connect-with-me)
+- [Fun Fact](#-fun-fact)
+
+## �🚀 About Me
 
 I am an IT student with hands-on experience in web application development, 
 and I am currently expanding my skills into mobile app development using Flutter and Firebase.
@@ -24,9 +35,6 @@ I am passionate about learning new technologies and continuously improving my sk
 
 ---
 
-## 🧰 Core Skills & Technologies
-
-### 💻 Languages & Frameworks
 ## 🧰 Core Skills & Technologies
 
 ### 💻 Languages & Frameworks
@@ -78,9 +86,9 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 | --- | --- |
 
-| <img src="apps_screenshot/Scan.jpg" width="200" alt="Scan Interface"><br>This screenshot displays the primary scan interface of the Smart Attendance System, where users scan their RFID cards to record attendance. | <img src="apps_screenshot/Scan history with delete.jpg" width="200" alt="Scan History with Delete"><br>Here, you can see the scan history page, allowing users to view past scans and delete entries if necessary. |
+| <img src="apps_screenshot/Scan.jpg" width="200" alt="Scan Interface"><br>Main scan screen for RFID attendance. | <img src="apps_screenshot/Scan history with delete.jpg" width="200" alt="Scan History with Delete"><br>History page with delete option. |
 
-| <img src="apps_screenshot/Scan white graph.jpg" width="200" alt="Scan White Graph"><br>This image shows a graphical view of scan data, perhaps a white-themed graph for better visibility. | <img src="apps_screenshot/Statistcis.jpg" width="200" alt="Statistics"><br>The statistics page provides insights into attendance patterns with charts and metrics. |
+| <img src="apps_screenshot/Scan white graph.jpg" width="200" alt="Scan White Graph"><br>Graphical data view. | <img src="apps_screenshot/Statistcis.jpg" width="200" alt="Statistics"><br>Attendance metrics dashboard. |
 
 ### Tool Management App Screenshots (Assuming based on image names)
 
@@ -88,27 +96,21 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 | --- | --- |
 
-<img src="apps_screenshot/adjustable.jpg" width="300" alt="Adjustable Tool">
+| <img src="apps_screenshot/adjustable.jpg" width="200" alt="Adjustable Tool"><br>Adjustable tool image. | <img src="apps_screenshot/Bar graph function.jpg" width="200" alt="Bar Graph Function"><br>Bar graph function. |
 
-A screenshot of an adjustable tool, possibly part of an inventory or catalog app.
+| <img src="apps_screenshot/Camera.jpg" width="200" alt="Camera"><br>Camera interface. | <img src="apps_screenshot/first_class.jpg" width="200" alt="First Class"><br>First class page. |
 
-<img src="apps_screenshot/Bar graph function.jpg" width="300" alt="Bar Graph Function">
+| <img src="apps_screenshot/first_page.jpg" width="200" alt="First Page"><br>Initial app page. | <img src="apps_screenshot/flat screw.jpg" width="200" alt="Flat Screw"><br>Flat screw tool. |
 
-This shows a bar graph function, likely displaying data in a visual format.
-
-| <img src="apps_screenshot/Camera.jpg" width="200" alt="Camera"><br>The camera interface, perhaps for capturing images in the app. | <img src="apps_screenshot/first_class.jpg" width="200" alt="First Class"><br>First class or category page. |
-
-| <img src="apps_screenshot/first_page.jpg" width="200" alt="First Page"><br>The initial page of the app. | <img src="apps_screenshot/flat screw.jpg" width="200" alt="Flat Screw"><br>Image of a flat screw tool. |
-
-| <img src="apps_screenshot/hammer.jpg" width="200" alt="Hammer"><br>Hammer tool screenshot. | <img src="apps_screenshot/needle nose.jpg" width="200" alt="Needle Nose"><br>Needle nose pliers. |
+| <img src="apps_screenshot/hammer.jpg" width="200" alt="Hammer"><br>Hammer tool. | <img src="apps_screenshot/needle nose.jpg" width="200" alt="Needle Nose"><br>Needle nose pliers. |
 
 | <img src="apps_screenshot/nut driver.jpg" width="200" alt="Nut Driver"><br>Nut driver tool. | <img src="apps_screenshot/open and wrench.jpg" width="200" alt="Open and Wrench"><br>Open-end wrench. |
 
-| <img src="apps_screenshot/screw driver.jpg" width="200" alt="Screw Driver"><br>Screwdriver. | <img src="apps_screenshot/second_page.jpg" width="200" alt="Second Page"><br>Second page of the app. |
+| <img src="apps_screenshot/screw driver.jpg" width="200" alt="Screw Driver"><br>Screwdriver. | <img src="apps_screenshot/second_page.jpg" width="200" alt="Second Page"><br>Second app page. |
 
-| <img src="apps_screenshot/Side bar.jpg" width="200" alt="Side Bar"><br>The side navigation bar. | <img src="apps_screenshot/third_page.jpg" width="200" alt="Third Page"><br>Third page. |
+| <img src="apps_screenshot/Side bar.jpg" width="200" alt="Side Bar"><br>Side navigation bar. | <img src="apps_screenshot/third_page.jpg" width="200" alt="Third Page"><br>Third app page. |
 
-| <img src="apps_screenshot/Torque.jpg" width="200" alt="Torque"><br>Torque tool or setting. |  |
+| <img src="apps_screenshot/Torque.jpg" width="200" alt="Torque"><br>Torque tool. |  |
 
 ---
 
