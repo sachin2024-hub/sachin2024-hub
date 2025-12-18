@@ -91,6 +91,7 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 <td><img src="apps_screenshot/third_class.jpg" width="120" alt="third_class"></td>
 <td><img src="apps_screenshot/fourth.jpg" width="120" alt="fourth"></td>
 <td><img src="apps_screenshot/fifth_class.jpg" width="120" alt="fifth_class"></td>
+</tr><tr>
 <td><img src="apps_screenshot/Six_class.jpg" width="120" alt="Six_class"></td>
 <td><img src="apps_screenshot/Seven_class.jpg" width="120" alt="Seven_class"></td>
 <td><img src="apps_screenshot/eight_class.jpg" width="120" alt="eight_class"></td>
