@@ -83,6 +83,21 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 
 ---
 
+## 🛠️ Tool Classes Overview
+
+Below is a quick overview of the tool classes that **Tool Identifier** can recognize, with a short description and a sample screen for each class.
+
+| Class Name         | Description                                                                                          | Sample Screen |
+|--------------------|------------------------------------------------------------------------------------------------------|---------------|
+| **Locking Plier**  | Versatile plier with an adjustable locking mechanism. Commonly used to firmly grip, clamp, or hold metal parts in place. | <img src="apps_screenshot/first_class.jpg" width="90" alt="Locking Plier screen"> |
+| **Open End Wrench**| Wrench with U-shaped openings on one or both ends. Ideal for tightening or loosening nuts and bolts in tighter spaces. | <img src="apps_screenshot/Second_class.jpg" width="90" alt="Open End Wrench screen"> |
+| **Torque Wrench**  | Precision wrench designed to apply a specific amount of torque to a fastener. Useful for mechanical and automotive work. | <img src="apps_screenshot/third_class.jpg" width="90" alt="Torque Wrench screen"> |
+| **Needle Nose Plier** | Long, narrow pliers used for gripping small objects and reaching into tight spaces. Helpful for electronics and fine repair work. | <img src="apps_screenshot/fourth.jpg" width="90" alt="Needle Nose Plier screen"> |
+| **Star Screwdriver** | Screwdriver with a star-shaped (Torx-style) tip. Commonly used for modern electronics and machinery that use star screws. | <img src="apps_screenshot/fifth_class.jpg" width="90" alt="Star Screwdriver screen"> |
+| **Flat Screwdriver** | Screwdriver with a flat, straight tip. Used for slotted screws in basic repairs and general-purpose tasks. | <img src="apps_screenshot/Six_class.jpg" width="90" alt="Flat Screwdriver screen"> |
+
+---
+
 ## 📸 App Screenshots
 
 ### 🏠 Main Screens
