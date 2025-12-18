@@ -73,7 +73,7 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 ## �# �🔗 Connect With Me
 
 * 📧 Email: xxsachinxx123@gmail.com
-* 🌐 Facebook: your-facebook-link
+* 🌐 Facebook: [your-facebook-link](https://www.facebook.com/sachin.kumar.712709)
 
 ---
 
@@ -87,14 +87,18 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 
 Below is a quick overview of the tool classes that **Tool Identifier** can recognize, with a short description and a sample screen for each class.
 
-| Class Name         | Description                                                                                          | Sample Screen |
-|--------------------|------------------------------------------------------------------------------------------------------|---------------|
-| **Locking Plier**  | Versatile plier with an adjustable locking mechanism. Commonly used to firmly grip, clamp, or hold metal parts in place. | <img src="apps_screenshot/first_class.jpg" width="90" alt="Locking Plier screen"> |
-| **Open End Wrench**| Wrench with U-shaped openings on one or both ends. Ideal for tightening or loosening nuts and bolts in tighter spaces. | <img src="apps_screenshot/Second_class.jpg" width="90" alt="Open End Wrench screen"> |
-| **Torque Wrench**  | Precision wrench designed to apply a specific amount of torque to a fastener. Useful for mechanical and automotive work. | <img src="apps_screenshot/third_class.jpg" width="90" alt="Torque Wrench screen"> |
-| **Needle Nose Plier** | Long, narrow pliers used for gripping small objects and reaching into tight spaces. Helpful for electronics and fine repair work. | <img src="apps_screenshot/fourth.jpg" width="90" alt="Needle Nose Plier screen"> |
-| **Star Screwdriver** | Screwdriver with a star-shaped (Torx-style) tip. Commonly used for modern electronics and machinery that use star screws. | <img src="apps_screenshot/fifth_class.jpg" width="90" alt="Star Screwdriver screen"> |
-| **Flat Screwdriver** | Screwdriver with a flat, straight tip. Used for slotted screws in basic repairs and general-purpose tasks. | <img src="apps_screenshot/Six_class.jpg" width="90" alt="Flat Screwdriver screen"> |
+| Class Name             | Description                                                                                          | Sample Image |
+|------------------------|------------------------------------------------------------------------------------------------------|-------------|
+| **Locking Plier**      | Versatile plier with an adjustable locking mechanism. Commonly used to firmly grip, clamp, or hold metal parts in place. | <img src="my class/Locking plier.jpg" width="90" alt="Locking Plier"> |
+| **Open End Wrench**    | Wrench with U-shaped openings on one or both ends. Ideal for tightening or loosening nuts and bolts in tighter spaces. | <img src="my class/Open-ended-wrench.jpg" width="90" alt="Open End Wrench"> |
+| **Torque Wrench**      | Precision wrench designed to apply a specific amount of torque to a fastener. Useful for mechanical and automotive work. | <img src="my class/Torque Wrench.jpg" width="90" alt="Torque Wrench"> |
+| **Needle Nose Plier**  | Long, narrow pliers used for gripping small objects and reaching into tight spaces. Helpful for electronics and fine repair work. | <img src="my class/Nindle nose flier.jpg" width="90" alt="Needle Nose Plier"> |
+| **Star Screwdriver**   | Screwdriver with a star-shaped (Torx-style) tip. Commonly used for modern electronics and machinery that use star screws. | <img src="my class/Star screw driver.jpg" width="90" alt="Star Screwdriver"> |
+| **Flat Screwdriver**   | Screwdriver with a flat, straight tip. Used for slotted screws in basic repairs and general-purpose tasks. | <img src="my class/Flat screw driver.jpg" width="90" alt="Flat Screwdriver"> |
+| **Combination Wrench** | Dual-ended wrench (one open end and one box end). Useful for both quick access and strong grip on nuts and bolts. | <img src="my class/Cobination wranch.jpg" width="90" alt="Combination Wrench"> |
+| **Adjustable Wrench**  | Wrench with a movable jaw that can be adjusted to fit different bolt sizes, ideal for versatile use. | <img src="my class/Adjustable.jpg" width="90" alt="Adjustable Wrench"> |
+| **Nut Driver**         | Tool similar to a screwdriver but designed to tighten or loosen nuts and hex-head screws efficiently. | <img src="my class/Nut driver.jpg" width="90" alt="Nut Driver"> |
+| **Hammer**             | Basic striking tool used for driving nails, fitting parts, and general construction work. | <img src="my class/Hamme.jpg" width="90" alt="Hammer"> |
 
 ---
 
