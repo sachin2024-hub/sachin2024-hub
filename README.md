@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Flutter%20%2B%20Firebase-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Learning%20Every%20Day-ff69b4?style=for-the-badge" />
 </p>
 
