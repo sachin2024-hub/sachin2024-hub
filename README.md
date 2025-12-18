@@ -80,3 +80,27 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 ## ✨ Fun Fact
 
 I enjoy designing clean, modern, and user-friendly interfaces that make apps enjoyable to use.
+
+---
+
+## 📸 App Screenshots
+
+![Bar graph function](apps_screenshot/Bar graph function.jpg)
+![Camera](apps_screenshot/Camera.jpg)
+![eight_class](apps_screenshot/eight_class.jpg)
+![fifth_class](apps_screenshot/fifth_class.jpg)
+![first_class](apps_screenshot/first_class.jpg)
+![fourth](apps_screenshot/fourth.jpg)
+![home screen](apps_screenshot/home screen.jpg)
+![nine_class](apps_screenshot/nine_class.jpg)
+![Scan history with delete](apps_screenshot/Scan history with delete.jpg)
+![Scan](apps_screenshot/Scan.jpg)
+![Second page after home screen](apps_screenshot/Second page after home screen.jpg)
+![Second_class](apps_screenshot/Second_class.jpg)
+![Seven_class](apps_screenshot/Seven_class.jpg)
+![Side bar](apps_screenshot/Side bar.jpg)
+![Six_class](apps_screenshot/Six_class.jpg)
+![Statistcis](apps_screenshot/Statistcis.jpg)
+![ten_class](apps_screenshot/ten_class.jpg)
+![third_class](apps_screenshot/third_class.jpg)
+![upload image](apps_screenshot/upload image.jpg)
