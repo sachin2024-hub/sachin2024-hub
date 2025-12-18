@@ -73,7 +73,7 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 ## �# �🔗 Connect With Me
 
 * 📧 Email: xxsachinxx123@gmail.com
-* 🌐 Facebook: [your-facebook-link](https://www.facebook.com/sachin.kumar.712709)
+* 🌐 Facebook: [Click here:](https://www.facebook.com/sachin.kumar.712709)
 
 ---
 
@@ -147,3 +147,16 @@ Below is a quick overview of the tool classes that **Tool Identifier** can recog
 <td><img src="apps_screenshot/nine_class.jpg" width="120" alt="nine_class"></td>
 <td><img src="apps_screenshot/ten_class.jpg" width="120" alt="ten_class"></td>
 </tr></table>
+
+---
+
+## 🚀 Key Features Summary
+
+| Feature                  | Description                                                                                                                     |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Tool Image Capture & Upload** | Users can either scan a new tool using the camera or pick an existing photo from their gallery to use as input for recognition. |
+| **Automatic Tool Recognition**  | The app runs an image classification model to predict which tool class the image belongs to, based on the supported tool types.   |
+| **Confidence Indicator**       | Each prediction includes a confidence value so users can see how certain the model is about the detected tool.                      |
+| **Tool Details & Usage Tips**  | After a scan, users can view a short description of the tool, along with common uses and basic safety or handling tips.            |
+| **Usage Statistics**           | A simple stats screen summarizes how often each tool type has been scanned, giving users an overview of their scan activity.      |
+| **Scan History with Management** | Previous scans are stored with timestamps so users can review older results, and they can delete individual entries when needed.   |
