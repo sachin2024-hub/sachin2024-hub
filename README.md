@@ -85,6 +85,36 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 
 ## 📸 App Screenshots
 
+### 🏠 Main Screens
+
+<table>
+  <tr>
+    <td><img src="apps_screenshot/home screen.jpg" width="120" alt="Home Screen"></td>
+    <td><img src="apps_screenshot/Second page after home screen.jpg" width="120" alt="Second Page After Home Screen"></td>
+  </tr>
+</table>
+
+### 📂 Sidebar & Statistics
+
+<table>
+  <tr>
+    <td><img src="apps_screenshot/Side bar.jpg" width="120" alt="Sidebar"></td>
+    <td><img src="apps_screenshot/Statistcis.jpg" width="120" alt="Statistics"></td>
+    <td><img src="apps_screenshot/Scan history with delete.jpg" width="120" alt="Scan History With Delete"></td>
+  </tr>
+</table>
+
+### 📷 Scan & Upload (Bottom Section)
+
+<table>
+  <tr>
+    <td><img src="apps_screenshot/Scan.jpg" width="120" alt="Scan Camera"></td>
+    <td><img src="apps_screenshot/upload image.jpg" width="120" alt="Upload Image"></td>
+  </tr>
+</table>
+
+### 📑 Other Screens
+
 <table><tr>
 <td><img src="apps_screenshot/first_class.jpg" width="120" alt="first_class"></td>
 <td><img src="apps_screenshot/Second_class.jpg" width="120" alt="Second_class"></td>
