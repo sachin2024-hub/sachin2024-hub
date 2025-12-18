@@ -54,6 +54,16 @@ I am passionate about learning new technologies and continuously improving my sk
 
 ---
 
+## 🎯 2025 Goals
+
+- [ ] Build and publish a complete mobile app using **Flutter + Firebase**
+- [ ] Contribute to at least one open-source project
+- [ ] Learn a new backend or cloud technology to strengthen full‑stack skills
+- [ ] Join or complete a multi-week coding challenge to improve consistency
+- [ ] Create or refine a personal portfolio website to showcase projects
+
+---
+
 ## ⭐ Featured Projects
 
 ### 📱 Smart Attendance System
