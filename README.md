@@ -85,22 +85,15 @@ I enjoy designing clean, modern, and user-friendly interfaces that make apps enj
 
 ## 📸 App Screenshots
 
-![Bar graph function](apps_screenshot/Bar graph function.jpg)
-![Camera](apps_screenshot/Camera.jpg)
-![eight_class](apps_screenshot/eight_class.jpg)
-![fifth_class](apps_screenshot/fifth_class.jpg)
-![first_class](apps_screenshot/first_class.jpg)
-![fourth](apps_screenshot/fourth.jpg)
-![home screen](apps_screenshot/home screen.jpg)
-![nine_class](apps_screenshot/nine_class.jpg)
-![Scan history with delete](apps_screenshot/Scan history with delete.jpg)
-![Scan](apps_screenshot/Scan.jpg)
-![Second page after home screen](apps_screenshot/Second page after home screen.jpg)
-![Second_class](apps_screenshot/Second_class.jpg)
-![Seven_class](apps_screenshot/Seven_class.jpg)
-![Side bar](apps_screenshot/Side bar.jpg)
-![Six_class](apps_screenshot/Six_class.jpg)
-![Statistcis](apps_screenshot/Statistcis.jpg)
-![ten_class](apps_screenshot/ten_class.jpg)
-![third_class](apps_screenshot/third_class.jpg)
-![upload image](apps_screenshot/upload image.jpg)
+<table><tr>
+<td><img src="apps_screenshot/first_class.jpg" width="120" alt="first_class"></td>
+<td><img src="apps_screenshot/Second_class.jpg" width="120" alt="Second_class"></td>
+<td><img src="apps_screenshot/third_class.jpg" width="120" alt="third_class"></td>
+<td><img src="apps_screenshot/fourth.jpg" width="120" alt="fourth"></td>
+<td><img src="apps_screenshot/fifth_class.jpg" width="120" alt="fifth_class"></td>
+<td><img src="apps_screenshot/Six_class.jpg" width="120" alt="Six_class"></td>
+<td><img src="apps_screenshot/Seven_class.jpg" width="120" alt="Seven_class"></td>
+<td><img src="apps_screenshot/eight_class.jpg" width="120" alt="eight_class"></td>
+<td><img src="apps_screenshot/nine_class.jpg" width="120" alt="nine_class"></td>
+<td><img src="apps_screenshot/ten_class.jpg" width="120" alt="ten_class"></td>
+</tr></table>
