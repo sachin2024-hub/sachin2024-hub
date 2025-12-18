@@ -34,6 +34,7 @@ I am passionate about learning new technologies and continuously improving my sk
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 🗄️ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -167,3 +168,16 @@ Below is a quick overview of the tool classes that **Tool Identifier** can recog
 | **Tool Details & Usage Tips**  | After a scan, users can view a short description of the tool, along with common uses and basic safety or handling tips.            |
 | **Usage Statistics**           | A simple stats screen summarizes how often each tool type has been scanned, giving users an overview of their scan activity.      |
 | **Scan History with Management** | Previous scans are stored with timestamps so users can review older results, and they can delete individual entries when needed.   |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin2024-hub&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin2024-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachin2024-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
