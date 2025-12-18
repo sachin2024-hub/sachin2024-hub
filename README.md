@@ -7,7 +7,7 @@
 
 ---
 
-## � About Me
+## 🙋‍♂️ About Me
 
 I am an IT student with hands-on experience in web application development, 
 and I am currently expanding my skills into mobile app development using Flutter and Firebase.
@@ -24,9 +24,6 @@ I am passionate about learning new technologies and continuously improving my sk
 
 ---
 
-## 🧰 Core Skills & Technologies
-
-### 💻 Languages & Frameworks
 ## 🧰 Core Skills & Technologies
 
 ### 💻 Languages & Frameworks
@@ -80,7 +77,7 @@ An e-commerce-style system with login, product display, admin panel, and purchas
 
 ---
 
-## �# �🔗 Connect With Me
+## 🔗 Connect With Me
 
 * 📧 Email: xxsachinxx123@gmail.com
 * 🌐 Facebook: [Click here:](https://www.facebook.com/sachin.kumar.712709)
