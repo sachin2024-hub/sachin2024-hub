@@ -1,9 +1,15 @@
-<h1 align="center">👋 WELCOME TO MY PROFILE</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sachin+L.+Kumar;IT+Student+%7C+Aspiring+Flutter+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-<h2 align="center"><strong>Sachin L. Kumar</strong></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%2B%20Firebase-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Every%20Day-ff69b4?style=for-the-badge" />
+</p>
 
-<p align="center"><em>IT Student</em></p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
