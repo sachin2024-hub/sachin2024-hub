@@ -1,9 +1,17 @@
-<h1 align="center">👋 WELCOME TO MY PROFILE</h1>
-
-<h2 align="center"><strong>Sachin L. Kumar</strong></h2>
-
-<p align="center"><em>IT Student</em></p>
-
+<div align="center">
+  
+  ```typescript
+  const developer = {
+    name: "Sachin L. Kumar",
+    role: "IT Student",
+    greeting: "👋 WELCOME TO MY PROFILE"
+  };
+  ```
+  
+  ### **${developer.name}**
+  *${developer.role}*
+  
+</div>
 
 ---
 
