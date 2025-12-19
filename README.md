@@ -8,24 +8,6 @@
 
 <div align="center">
   
-  ### 💫 About Me
-  
-  <p>
-    <em>
-      IT Student passionate about creating innovative web and mobile applications.<br/>
-      Currently learning <strong>Flutter</strong> and <strong>Firebase</strong> to build modern, scalable solutions.
-    </em>
-  </p>
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <a href="https://github.com/sachin2024-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <img src="https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=for-the-badge" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue" alt="Profile views" />
   
