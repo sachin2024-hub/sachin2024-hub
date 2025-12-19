@@ -192,3 +192,13 @@ Below is a quick overview of the tool classes that **Tool Identifier** can recog
   <img src="https://github-readme-stats.vercel.app/api?username=sachin2024-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sachin2024-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
