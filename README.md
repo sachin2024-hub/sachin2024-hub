@@ -4,18 +4,14 @@
   
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-181717?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-181717?style=for-the-badge&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LEARNING%20EVERY%20DAY-ff69b4?style=for-the-badge" alt="Learning Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue&label=PROFILE+VIEWS&labelColor=181717" alt="Profile views" />
 </p>
-
-<br/>
 
 ---
 
