@@ -1,8 +1,20 @@
-<h1 align="center">👋 WELCOME TO MY PROFILE</h1>
+<p align="left">
+  <span style="color: #A855F7;">Learning Flutter, Web Dev, and Mobile Development</span>
+</p>
 
-<h2 align="center"><strong>Sachin L. Kumar</strong></h2>
+---
 
-<p align="center"><em>IT Student</em></p>
+<p align="center">
+  💻 <strong>Sachin L. Kumar</strong><br/>
+  IT Student · Flutter & Web Developer · Aspiring Full-Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://github.com/sachin2024-hub">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=for-the-badge" alt="Status: Learning Everyday" />
+</p>
 
 
 ---
