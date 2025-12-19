@@ -1,7 +1,5 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Sachin+L.+Kumar;💻+IT+Student+%7C+Web+%26+Mobile+Developer;🚀+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Sachin+L.+Kumar;💻+IT+Student+|+Web+&+Mobile+Developer;🚀+Welcome+to+my+GitHub+Profile!&font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue&label=PROFILE+VIEWS&labelColor=181717" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS&labelColor=181717" alt="Profile views" />
 </p>
 
 ---
