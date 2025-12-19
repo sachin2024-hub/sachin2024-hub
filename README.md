@@ -32,14 +32,19 @@ I am passionate about learning new technologies and continuously improving my sk
 ## 🧰 Core Skills & Technologies
 
 ### 💻 Languages & Frameworks
-* Flutter, Java, Python, PHP, HTML, CSS, JavaScript
+```
+Flutter, Java, Python, PHP, HTML, CSS, JavaScript
+```
 
 ### 🗄️ Databases
-* Firebase, MySQL
+```
+Firebase, MySQL
+```
 
 ### 🔧 Version Control & Tools
-* Git
-* GitHub
+```
+Git, GitHub
+```
 
 
 ---
