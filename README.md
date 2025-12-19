@@ -1,20 +1,37 @@
-<p align="left">
-  <span style="color: #A855F7;">Learning Flutter, Web Dev, and Mobile Development</span>
-</p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Sachin+L.+Kumar;💻+IT+Student+%7C+Web+%26+Mobile+Developer;🚀+Passionate+about+building+amazing+apps!" alt="Typing SVG" />
+  
+</div>
 
----
+<br/>
 
-<p align="center">
-  💻 <strong>Sachin L. Kumar</strong><br/>
-  IT Student · Flutter & Web Developer · Aspiring Full-Stack Developer
-</p>
+<div align="center">
+  
+  ### 💫 About Me
+  
+  <p>
+    <em>
+      IT Student passionate about creating innovative web and mobile applications.<br/>
+      Currently learning <strong>Flutter</strong> and <strong>Firebase</strong> to build modern, scalable solutions.
+    </em>
+  </p>
+  
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
+  
   <a href="https://github.com/sachin2024-hub">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=for-the-badge" alt="Status: Learning Everyday" />
-</p>
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=for-the-badge&color=blue" alt="Profile views" />
+  
+</div>
+
+<br/>
 
 
 ---
