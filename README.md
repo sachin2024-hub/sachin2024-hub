@@ -1,23 +1,38 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sachin+L.+Kumar;4th-Year+Information+Technology+Student;Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js+%7C+Express.js;Supabase+%7C+PostgreSQL+%7C+Flutter;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20Every%20Day-ff69b4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin2024-hub&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
 ## 🙋‍♂️ About Me
 
 I am a 4th-year Information Technology student with hands-on experience in building web and mobile applications.
 
-I have worked with frontend, backend, database, and mobile development technologies, including **React, JavaScript, PHP, Node.js, Express.js, Flutter, MySQL, PostgreSQL, Supabase, and Firebase**.
+I have worked with frontend, backend, database, and mobile development technologies, including **React, React Native, JavaScript, PHP, Node.js, Express.js, Flutter, MySQL, PostgreSQL, Supabase, Firebase, and Expo**.
 
 I enjoy developing practical systems and turning ideas into functional applications, with a focus on clean UI design, organized backend logic, database management, and overall usability.
 
-I am continuously exploring new technologies and improving my skills as I work toward becoming a well-rounded full-stack developer.
+I am continuously exploring new technologies and improving my skills as I work toward becoming a well-rounded full-stack and mobile developer.
 
 ---
 
 ## 🎯 Current Focus
 
 * Building modern web applications using **React**
+* Developing cross-platform mobile applications using **React Native + Expo** and **Flutter**
 * Developing REST APIs using **Node.js + Express.js**
 * Working with **Supabase and PostgreSQL** for database management
 * Managing PostgreSQL databases using **pgAdmin 4**
 * Improving full-stack application architecture
-* Strengthening mobile development skills
+* Strengthening web and mobile development skills
 * Building clean, responsive, and user-friendly interfaces
 
 ---
@@ -56,6 +71,8 @@ I am continuously exploring new technologies and improving my skills as I work t
 
 ### 📱 Mobile Development
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -70,6 +87,7 @@ I am continuously exploring new technologies and improving my skills as I work t
 ## 📚 Learning & Development
 
 * Building full-stack applications using **React, Node.js, and Express.js**
+* Developing cross-platform mobile applications using **React Native + Expo**
 * Designing and developing RESTful APIs
 * Working with relational databases using **MySQL and PostgreSQL**
 * Using **Supabase** for database and backend services
@@ -83,6 +101,7 @@ I am continuously exploring new technologies and improving my skills as I work t
 ## 🎯 2026 Goals
 
 - [ ] Build more complete full-stack applications using **React + Node.js + Express.js**
+- [ ] Improve my **React Native + Expo** mobile development skills
 - [ ] Strengthen my knowledge of **PostgreSQL and Supabase**
 - [ ] Improve API development and backend architecture
 - [ ] Deploy production-ready web and mobile applications
